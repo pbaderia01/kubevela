@@ -1416,7 +1416,7 @@
 				"tags": [
 					"application"
 				],
-				"summary": "get application status",
+				"summary": "Recycle a deployed application resources from an env",
 				"operationId": "recycleApplicationEnv",
 				"parameters": [
 					{
